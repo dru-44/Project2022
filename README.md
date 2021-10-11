@@ -1,2 +1,2 @@
-# Project2022
+# Project-2022
 Go nuts🤪  Gl boyss!
