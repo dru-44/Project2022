@@ -1,2 +1,2 @@
 # Project - 2022
-Go nuts🤪  Gl boyss!
+Test scripts on Sentinel 2 data
